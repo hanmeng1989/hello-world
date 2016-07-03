@@ -8,6 +8,3 @@ A:What does the fucking BAT do?<br>
 B:They just want to make money,but not to promote the advancement of technology.<br>
 A:OK, I know, they just sons of bitches.<br>
 B:hehe~<br>
-
-Hubot here, I like Node.js and coffeescript(that's what I'm made of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
